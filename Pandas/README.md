@@ -271,11 +271,4 @@ time-series → [RESAMPLE] → New frequency → [FFILL/BFILL] → Clean series
 
 ---
 
-**Your Next Steps:**
-1. Copy this markdown content (select all text above from the code block)
-2. Use a markdown editor (Typora, Obsidian, or VS Code with markdown preview)
-3. Export as PDF or HTML
-4. Convert to images using your preferred tool
-5. Print or share as visual cheat sheets
-
 This cheat sheet contains **100+ methods** organized into logical categories with examples, pro tips, and mental models. The visual hierarchy and emojis make it scannable and memorable. 🚀
