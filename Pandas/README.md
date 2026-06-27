@@ -3,7 +3,7 @@
 
 ---
 
-## 📍 PAGE 1: Advanced Indexing & Selection
+## 📍Advanced Indexing & Selection
 
 | Method | Vibe 💫 | Pro Tip 🎯 | Code Snippet ⚡ |
 |--------|---------|------------|-----------------|
@@ -22,7 +22,7 @@
 
 ---
 
-## 📍 PAGE 2: Advanced Missing Data Handling
+## 📍Advanced Missing Data Handling
 
 | Method | Vibe 💫 | Pro Tip 🎯 | Code Snippet ⚡ |
 |--------|---------|------------|-----------------|
@@ -41,7 +41,7 @@
 
 ---
 
-## 📍 PAGE 3: Sorting & Ranking
+## 📍Sorting & Ranking
 
 | Method | Vibe 💫 | Pro Tip 🎯 | Code Snippet ⚡ |
 |--------|---------|------------|-----------------|
@@ -57,7 +57,7 @@
 
 ---
 
-## 📍 PAGE 4: GroupBy Mastery
+## 📍GroupBy Mastery
 
 **Mental Model: The Split-Apply-Combine Dance** 🕺
 ```
@@ -85,7 +85,7 @@ DataFrame → [SPLIT by groups] → Apply Function → [COMBINE] → Result
 
 ---
 
-## 📍 PAGE 5: Reshaping Data
+## 📍Reshaping Data
 
 **Mental Model: The Tidy Data Tango** 💃
 ```
@@ -114,7 +114,7 @@ explode() → Unroll list-like entries
 
 ---
 
-## 📍 PAGE 6: Combining DataFrames
+## 📍Combining DataFrames
 
 | Method | Vibe 💫 | Pro Tip 🎯 | Code Snippet ⚡ |
 |--------|---------|------------|-----------------|
@@ -131,7 +131,7 @@ explode() → Unroll list-like entries
 
 ---
 
-## 📍 PAGE 7: Time-Series Operations
+## 📍Time-Series Operations
 
 **Mental Model: The Temporal Toolkit** ⏰
 ```
@@ -158,7 +158,7 @@ time-series → [RESAMPLE] → New frequency → [FFILL/BFILL] → Clean series
 
 ---
 
-## 📍 PAGE 8: Advanced String Operations
+## 📍Advanced String Operations
 
 | Method | Vibe 💫 | Pro Tip 🎯 | Code Snippet ⚡ |
 |--------|---------|------------|-----------------|
@@ -173,7 +173,7 @@ time-series → [RESAMPLE] → New frequency → [FFILL/BFILL] → Clean series
 
 ---
 
-## 📍 PAGE 9: Performance & Data Cleaning
+## 📍Performance & Data Cleaning
 
 | Method | Vibe 💫 | Pro Tip 🎯 | Code Snippet ⚡ |
 |--------|---------|------------|-----------------|
@@ -189,7 +189,7 @@ time-series → [RESAMPLE] → New frequency → [FFILL/BFILL] → Clean series
 
 ---
 
-## 🥋 PAGE 10: BLACK BELT BONUS - The Advanced Arsenal
+## 🥋BLACK BELT BONUS - The Advanced Arsenal
 
 | Tool | Vibe 💫 | When to Use | Code Snippet ⚡ |
 |------|---------|-------------|-----------------|
