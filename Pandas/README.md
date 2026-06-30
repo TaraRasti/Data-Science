@@ -215,7 +215,7 @@ time-series → [RESAMPLE] → New frequency → [FFILL/BFILL] → Clean series
 | `df.convert_dtypes()` | *The dtype optimizer* | Re-run after operations | `df = df.convert_dtypes()` |
 
 ---
-
+ 
 
 ## 💡 The Pandas Philosophy Cheat Sheet
 
