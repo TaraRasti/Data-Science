@@ -216,31 +216,6 @@ time-series → [RESAMPLE] → New frequency → [FFILL/BFILL] → Clean series
 
 ---
 
-## 🎯 Quick Reference: Most Frequently Used Chains
-
-```python
-# Data Cleaning Pipeline
-(df
- .pipe(load_data)
- .query('age > 0')
- .assign(age_group=lambda x: pd.cut(x['age'], bins=[0,18,65,100]))
- .groupby('age_group')
- .agg(mean_score=('score', 'mean'), count=('score', 'count'))
- .style.background_gradient(cmap='Blues')
-)
-
-# Time Series Pipeline
-(df
- .set_index('date')
- .resample('D')
- .mean()
- .ffill(limit=5)
- .assign(rolling_mean=lambda x: x['value'].rolling(7).mean())
- .assign(pct_change=lambda x: x['value'].pct_change())
-)
-```
-
----
 
 ## 💡 The Pandas Philosophy Cheat Sheet
 
