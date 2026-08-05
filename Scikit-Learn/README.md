@@ -1,6 +1,4 @@
-Here is the full content formatted as a **README.md cell** (pure Markdown, ready to paste into GitHub README or a Jupyter Markdown cell):
 
-````markdown
 # Scikit-Learn Cheat Sheet: 21 Essential Tools for Professional ML Workflows (Part 1)
 
 A practical reference guide covering pipelines, preprocessing, feature selection, and dimensionality reduction techniques in Scikit-Learn.
