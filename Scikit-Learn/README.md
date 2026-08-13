@@ -1,8 +1,4 @@
-Here's your complete, formatted cheat sheet file:
 
----
-
-```markdown
 # Scikit-Learn Cheat Sheet: 50 Essential Tools for Professional ML Workflows
 
 A comprehensive reference guide covering pipelines, preprocessing, feature selection, evaluation, cross-validation, hyperparameter tuning, ensemble methods, and advanced model improvement techniques.
