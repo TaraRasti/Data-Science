@@ -736,19 +736,3 @@ A professional Scikit-Learn workflow goes beyond simply fitting a model.
 > **"Don't just build a model. Build a workflow that can be trusted."** 🚀
 
 With these **50 Scikit-Learn tools**, you now have a complete foundation for preprocessing, feature engineering, feature selection, dimensionality reduction, model evaluation, cross-validation, hyperparameter tuning, ensemble learning, and production-ready deployment.
-```
-
----
-
-To save this as a file:
-
-1. Copy the entire text above
-2. Paste it into your preferred text editor
-3. Save as `scikit_learn_cheat_sheet.md` (for Markdown) or `scikit_learn_cheat_sheet.txt` (for plain text)
-
-The file is properly formatted with:
-- Clear section headers
-- Tables for quick reference
-- Code blocks with syntax highlighting support
-- Decision guides (text-based flowcharts)
-- Golden rules for best practices
